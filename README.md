@@ -5,9 +5,9 @@
 ![App Screenshot](./sct.png)
 
 
-# **Graphy v1 - Real-Time GraphRAG Application**
+# **Graphy - Real-Time GraphRAG Application**
 
-Graphy v1 is an innovative **Graph Retrieval-Augmented Generation (GraphRAG)** application that combines the power of **OpenAI’s GPT models**, **Neo4j**, and **LangChain** to transform unstructured data from PDFs into structured knowledge graphs. This app allows users to seamlessly query the extracted information using natural language, making data interactions smooth, intuitive, and real-time. It’s designed to simplify the process of **knowledge extraction and querying** by leveraging **graph databases** and **NLP-driven chat interfaces**.
+Graphy is an innovative **Graph Retrieval-Augmented Generation (GraphRAG)** application that combines the power of **OpenAI’s GPT models**, **Neo4j**, and **LangChain** to transform unstructured data from PDFs into structured knowledge graphs. This app allows users to seamlessly query the extracted information using natural language, making data interactions smooth, intuitive, and real-time. It’s designed to simplify the process of **knowledge extraction and querying** by leveraging **graph databases** and **NLP-driven chat interfaces**.
 
 ---
 
@@ -77,12 +77,6 @@ Before installing and running Graphy v1, ensure you have the following:
    cd graphy-v1
 
 
-
-
-[![Watch the video](https://img.youtube.com/vi/odtGLUPXqfs/hqdefault.jpg)](https://youtu.be/odtGLUPXqfs)
-
-
-*Click the image above to watch the demo video on YouTube.*
 
 ## Getting Started
 
