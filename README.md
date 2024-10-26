@@ -11,9 +11,7 @@ Graphy v1 is an innovative **Graph Retrieval-Augmented Generation (GraphRAG)** a
 
 ---
 
-## **App Screenshot**
 
-(Insert a relevant screenshot here to showcase the app interface)
 
 ---
 
@@ -34,7 +32,7 @@ Graphy v1 is an innovative **Graph Retrieval-Augmented Generation (GraphRAG)** a
 
 ## **Overview**
 
-Graphy v1 is built to handle **PDF-based data extraction and visualization** using graph databases. Users can upload PDF documents, extract **entities and relationships**, and query the results in **natural language**. The application transforms natural language queries into **Cypher queries**, allowing for efficient interaction with the **Neo4j graph database**. This system enhances the way documents are processed and analyzed, offering **real-time responses** through an easy-to-use web interface.
+Graphy is built to handle **PDF-based data extraction and visualization** using graph databases. Users can upload PDF documents, extract **entities and relationships**, and query the results in **natural language**. The application transforms natural language queries into **Cypher queries**, allowing for efficient interaction with the **Neo4j graph database**. This system enhances the way documents are processed and analyzed, offering **real-time responses** through an easy-to-use web interface.
 
 The platform supports **extensible architecture** for future improvements and is ideal for those interested in **AI, NLP, graph databases, and real-time knowledge retrieval**.
 
@@ -50,9 +48,6 @@ The platform supports **extensible architecture** for future improvements and is
 
 ---
 
-## **Demo**
-
-(Insert a clickable image or link to a demo video, if available)
 
 ---
 
